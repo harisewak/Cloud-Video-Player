@@ -1,0 +1,14 @@
+{
+  "projectName": "app",
+  "version": "2.0",
+  "frontend": "android",
+  "providers": [
+    "awscloudformation"
+  ],
+  "profileName": "amplify-profile",
+  "android": {
+    "config": {
+      "ResDir": "app/src/main/res"
+    }
+  }
+}

@@ -1,0 +1,7 @@
+type TrendingVideos @model @auth(rules: [{allow: public}]) {
+  id: ID!
+  title: String
+  s3_url: String
+  cf_url: String
+  thumbnail: String
+}

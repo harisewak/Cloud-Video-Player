@@ -1,0 +1,15 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-cloudvideoplayer-staging-192201-authRole",
+      "UnauthRoleArn": "arn:aws:iam::868427350313:role/amplify-cloudvideoplayer-staging-192201-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::868427350313:role/amplify-cloudvideoplayer-staging-192201-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-cloudvideoplayer-staging-192201-deployment",
+      "UnauthRoleName": "amplify-cloudvideoplayer-staging-192201-unauthRole",
+      "StackName": "amplify-cloudvideoplayer-staging-192201",
+      "StackId": "arn:aws:cloudformation:ap-south-1:868427350313:stack/amplify-cloudvideoplayer-staging-192201/927ed7b0-76d5-11eb-bafc-0ae94b6c4854",
+      "AmplifyAppId": "d1kp0xk0ombba6"
+    }
+  }
+}
